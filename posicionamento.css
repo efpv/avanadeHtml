@@ -9,20 +9,17 @@ p {
 
 .p1{
     background-color: red; 
-    margin-right: auto;
     top: 0ch;
     left: 0ch;
 }
 .p2{
     background-color: yellow;
-    margin-left: auto;
     top: 0ch;
     right: 0ch;
 }
 
 .p3{
     background-color: green;
-    margin-right: auto;
     bottom: 0ch;
     left: 0ch;
 }
@@ -30,6 +27,5 @@ p {
 .p4{
     background-color: blue;
     bottom: 0ch;
-    position: absolute;
     right: 0ch;
 }
