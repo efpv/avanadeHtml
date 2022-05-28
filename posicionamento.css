@@ -1,37 +1,33 @@
 p {
     font-family: Helvetica, sans-serif;
     font-size: 18px;
+    position: absolute;
+    text-align: left;
   }
 
 .p1{
     background-color: red;
-    text-align: left;
     height: 100px;
     width: 140px;   
     margin-right: auto;
     top: 0ch;
-    position: absolute;
     left: 0ch;
 }
 .p2{
     background-color: yellow;
-    text-align: left;
     height: 100px;
     width: 140px;
     margin-left: auto;
     top: 0ch;
-    position: absolute;
     right: 0ch;
 }
 
 .p3{
     background-color: green;
-    text-align: left;
     height: 100px;
     width: 140px;
     margin-right: auto;
     bottom: 0ch;
-    position: absolute;
     left: 0ch;
 }
 
